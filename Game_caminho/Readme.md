@@ -1,4 +1,4 @@
-#Game_version
+## Versão do Game
 
 v1.1.0
 
@@ -17,6 +17,3 @@ v1.1.0
 
 * **Matheus Reis** - *Primeiro Game* - [matheusbreis10](https://github.com/matheusbreis10)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
