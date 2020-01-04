@@ -5,8 +5,17 @@ v1.1.0
 ## Módulos Utilizados
 
 * [pygame](http://www.pygame.org/)
+  ```
+  pip install pygame
+  ```
 * [sys]
+  ```
+  import sys
+  ```
 * [os]
+  ```
+  import os
+  ```
 
 ## Modo de Jogar
 * O objetivo do game consiste em andar com o quadrado azul até o FIM.
